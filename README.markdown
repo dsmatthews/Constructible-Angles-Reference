@@ -25,11 +25,11 @@ The Constructible Angles Reference is a Python-based project that generates a li
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/dsmatthews/Constructible-Angles-Reference.git
-   cd constructible-angles
+   cd Constructible-Angles-Reference
    ```
 2. Run the Python script to generate the HTML file:
    ```bash
-   python constructible_angles.py
+   python Constructable_Angles_2.7.py
    ```
 3. Open the generated `constructible_angles.html` file in a web browser:
    - The script will print the absolute path to the file upon completion.
@@ -43,7 +43,7 @@ The Constructible Angles Reference is a Python-based project that generates a li
 
 ## Files
 
-- `constructible_angles.py`: The main Python script that generates constructible angles and outputs the HTML file.
+- `Constructable_Angles_2.7.py`: The main Python script that generates constructible angles and outputs the HTML file.
 - `constructible_angles.html`: The generated HTML file (created after running the script) containing the interactive angle reference.
 
 ## Project Details
